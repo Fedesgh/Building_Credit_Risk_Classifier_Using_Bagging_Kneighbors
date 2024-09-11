@@ -1,4 +1,5 @@
-The motivation for this repository are the difficulties that the dataset present when we define Target and features:
+The motivation for this repository are the difficulties that the dataset present when we define the Target and features.
+Also , there are several attempts  in kaggle with low metrics particularly when we restrict the training set to features with information before the loan was granted and we want try to improve it:
 
 https://www.kaggle.com/datasets/devanshi23/loan-data-2007-2014/data 
 
@@ -46,8 +47,6 @@ On top of this we should consider:
 <li>All the loans regardless its end, were previously in time Current and/or Late</li>
 </ol>
 
-## There are serveral ways to model the problem: 
-
 FIRST MODEL (STRICT): 
 
 "Good loans": 
@@ -65,4 +64,4 @@ FIRST MODEL (STRICT):
 </ol>
 
 We just consider ends of loans categorys in the target, and we should consider only features in X_train set that belong before
-the loan was given.
+the loan was granted.
