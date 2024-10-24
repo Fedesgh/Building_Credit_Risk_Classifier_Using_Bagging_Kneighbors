@@ -1,6 +1,6 @@
 ## Motivation
 
-The motivation for this repository are the difficulties that the dataset present when we define the Target and features like **several data leakages**. 
+The motivation for this repository are the difficulties that the dataset present when we define the Target and Features. One of the problems involve **several data leakages**. 
 
 
 Also there are several attempts in kaggle with low metrics particularly when we restrict the training set to features with information before the loan was granted and we want try to improve it:
