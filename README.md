@@ -9,7 +9,7 @@ There are several attempts in kaggle with **low metrics** particularly when we r
 
 https://www.kaggle.com/datasets/devanshi23/loan-data-2007-2014/data 
 
-We use various data preprocces techniques like **SelectKbest with information value** , **Up-sampling with Imlearn**, **One Hot Encoder** and **Imputers**
+We use various data preprocces techniques like **SelectKbest with information value**, **Binning** , **Up-sampling with Imlearn**, **One Hot Encoder** and **Imputers**
 
 ## Problems at defining the target
 
