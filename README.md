@@ -50,10 +50,11 @@ while In Grace Period belongs to the beginning.
 
 On top of this we should consider:
 
-<ol>
-<li>**All the loans regardless its end, were previously in time "In Period Grace"**</li>
-<li>**All the loans regardless its end, were previously in time Current and/or Late**</li>
-</ol>
+**All the loans regardless its end, were previously in time "In Period Grace"**
+
+
+**All the loans regardless its end, were previously in time Current and/or Late**
+
 
 ## Our target 
 
